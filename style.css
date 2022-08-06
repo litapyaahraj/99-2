@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+
+}
+#camera{
+    width: 500;
+    height: 400;
+}
+img{
+
+
+padding: 5px;
+width: 500px;
+}
+img:hover{
+    border-radius:50px;
+}
+    body{
+        background: burlywood;
+    }
